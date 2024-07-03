@@ -28,7 +28,7 @@ Task:
       ubuntu  ALL=(ALL) NOPASSWD:ALL
     ```
 - Set master/worker IPs and private key path in `terraform/terraform.tfvars` file:
-  ```json
+  ```bash
   master_ip       = "192.168.31.72"
   worker_ips      = ["192.168.31.127"]
   ssh_user        = "ubuntu"

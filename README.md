@@ -41,7 +41,6 @@ Task:
   addresses:
     - 192.168.31.253/32
   ```
--
 
 ## Applying Terraform
 
